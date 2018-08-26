@@ -50,8 +50,11 @@
             // 
             this.textWynik.Location = new System.Drawing.Point(21, 24);
             this.textWynik.Name = "textWynik";
+            this.textWynik.ReadOnly = true;
+            this.textWynik.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.textWynik.Size = new System.Drawing.Size(318, 20);
             this.textWynik.TabIndex = 0;
+            this.textWynik.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // button1
             // 
@@ -236,8 +239,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textWynik;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
@@ -253,6 +254,7 @@
         private System.Windows.Forms.Button buttonMnozenie;
         private System.Windows.Forms.Button buttonOdejmowanie;
         private System.Windows.Forms.Button buttonAdd;
+        public System.Windows.Forms.TextBox textWynik;
     }
 }
 
