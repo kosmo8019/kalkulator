@@ -3,3 +3,8 @@ C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resour
 C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
 C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
 C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\sbudz\Documents\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\sbudz\Documents\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\sbudz\Documents\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
