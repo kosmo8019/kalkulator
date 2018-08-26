@@ -1,0 +1,5 @@
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\sbudz\Documents\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
